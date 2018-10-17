@@ -1,0 +1,17 @@
+html,body, .wrapper, .col{
+      height:100%;
+    }
+    .wrapper{
+      overflow: hidden;
+    }
+    .col{
+      float:left;
+    }
+    .one{
+      width:77%;
+      background-color:green;
+    }
+    .two{
+      width:23%;
+      background-color:orange;
+    }
